@@ -24,11 +24,15 @@ Trail Bliss is a full-stack tourism web application that helps users explore tou
 
 ## 🛠 Tech Stack
 
-- HTML  
-- CSS  
-- JavaScript  
-- Node.js  
-- SQL  
+-> HTML  
+
+-> CSS  
+
+-> JavaScript  
+
+-> Node.js  
+
+-> MongoDB  
 
 ---
 
