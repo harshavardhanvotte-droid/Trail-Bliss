@@ -62,3 +62,4 @@ This project helped me understand real-world full-stack development, user data h
   
 
 GitHub: https://github.com/harshavardhanvotte-droid  
+LinkedIn: www.linkedin.com/in/sai-harsha-vardhan-votte-0a1790341
